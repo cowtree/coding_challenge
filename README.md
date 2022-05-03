@@ -15,10 +15,12 @@
 
 
 5. Compute features for each dataset: frequency band power
-Delta: 2-4 Hz
-Theta: 5-7 Hz
-Alpha: 8-12 Hz
-Beta: 13 - 30 Hz
+
+EEG Frequency bands
+Delta: 2-4 Hz <br>
+Theta: 5-7 Hz  <br>
+Alpha: 8-12 Hz  <br>
+Beta: 13 - 30 Hz  <br>
 
 ---
 
